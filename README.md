@@ -15,8 +15,6 @@ Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji nowot
 
 - `Predykcja raka piersi.ipynb` – główny notebook z kodem
 - `README.md` – ten plik, zawierający opis projektu
-- `requirements.txt` – lista wymaganych bibliotek
-- (opcjonalnie) `data/` – katalog z danymi, jeśli dane nie są pobierane automatycznie
 
 ## 🔧 Jak uruchomić
 
