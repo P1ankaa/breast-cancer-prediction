@@ -49,12 +49,6 @@ Model osiąga wysoką dokładność na zbiorze testowym i dobrze rozróżnia mi�
 Dane pochodzą z UCI Machine Learning Repository:  
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
-## 🧠 Przyszłe usprawnienia
-
-- Walidacja krzyżowa
-- Testowanie różnych modeli klasyfikacyjnych
-- Wykresy SHAP / interpretacja modelu
-- GUI (np. Streamlit)
 
 ## 📜 Licencja
 
