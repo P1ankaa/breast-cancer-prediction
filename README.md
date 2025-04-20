@@ -1,6 +1,6 @@
 # Predykcja Raka Piersi (Breast Cancer Prediction)
 
-Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji nowotworów piersi na podstawie zbioru danych **Breast Cancer Wisconsin (Diagnostic) Data Set**. Celem jest predykcja, czy nowotwór jest złośliwy czy łagodny, z wykorzystaniem klasyfikatora maszynowego.
+Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji nowotworów piersi na podstawie zbioru danych **Breast Cancer Wisconsin (Diagnostic) Data Set**. Celem jest predykcja, czy nowotwór jest złośliwy czy łagodny, z wykorzystaniem algorytmu KNN (K Nearest Neighbors).
 
 ## 📊 Wykorzystane narzędzia
 
