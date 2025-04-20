@@ -16,30 +16,6 @@ Ten projekt to prosty model uczenia maszynowego służący do klasyfikacji nowot
 - `Predykcja raka piersi.ipynb` – główny notebook z kodem
 - `README.md` – ten plik, zawierający opis projektu
 
-## 🔧 Jak uruchomić
-
-1. Sklonuj repozytorium:
-```
-git clone https://github.com/twoj-nick/predykcja-raka-piersi.git
-cd predykcja-raka-piersi
-```
-
-2. (Opcjonalnie) Stwórz i aktywuj środowisko virtualne:
-```
-python -m venv venv
-source venv/bin/activate       # lub `venv\Scripts\activate` na Windows
-```
-
-3. Zainstaluj zależności:
-```
-pip install -r requirements.txt
-```
-
-4. Uruchom notebook:
-```
-jupyter notebook
-```
-
 ## 📈 Wyniki
 
 Model osiąga wysoką dokładność na zbiorze testowym i dobrze rozróżnia między nowotworem łagodnym a złośliwym. Do ewaluacji wykorzystano m.in. macierz pomyłek, dokładność i wykresy.
